@@ -31,13 +31,13 @@
 #  - title: "Portfolio"
 #    url: "/design/portfolio/"
 
-  - title: "Portfolio"
-    side: left
-    url: "/design/portfolio/"
-    
-  - title: "Gallery"
-    side: left
-    url: "/design/gallery/"
+- title: "Portfolio"
+  url: "/design/portfolio/"
+  side: left  
+
+- title: "Gallery"
+  url: "/design/gallery/"
+  side: left
 
 #- title: "Header Styles"
 #  url: "/headers/"
