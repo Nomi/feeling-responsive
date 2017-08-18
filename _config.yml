@@ -8,7 +8,7 @@
 #                                                 /____/
 #
 # Title of your website
-title: 'Nomi98'
+title: 'Nomi's GitHub Pages'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
 slogan: 'A blog about my ventures into Programming, Networking, Fansubbing & more.'
@@ -40,7 +40,7 @@ urlimg: 'https://nomi.github.io/images/'
 
 
 # Logo size is 600x80 pixels 
-logo: "logov4.png"
+logo: "logoV4.png"
 
 # Gems
 gems:
