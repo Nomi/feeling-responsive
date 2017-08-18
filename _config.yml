@@ -8,16 +8,16 @@
 #                                                 /____/
 #
 # Title of your website
-title: 'Nomi98'
+title: 'Nomi's Dev Blog'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: 'Nomi's Development Blog'
+slogan: 'A blog about my ventures into Programming, Networking, Fansubbing & more.'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: 'A blog about Nomi's ventures into Programming, Networking, Fansubbing & more.'
+description: 'A blog that tells the tales of a Computer Scientist (SPOILER: Me), on his various digital adventures. From Programming, IT & Tech Support, Web Development, Graphic Artistry, Fansubber and more.'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p>Designe by <br><a href="http://phlow.de/">Phlow</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a>'
+credits: '<b>Feeling Responsive><br><p>Designe by <br><a href="http://phlow.de/">Phlow</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a>'
 # See > authors.yml
 author: phlow
 
