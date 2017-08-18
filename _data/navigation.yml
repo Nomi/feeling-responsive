@@ -32,7 +32,8 @@
 #    url: "/design/portfolio/"
 
 - title: "Gallery & Portfolio"
-  url: "/design/"
+   url: ""
+#  url: "/design/"
   side: left
   dropdown:
   - title: "Portfolio"
