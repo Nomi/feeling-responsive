@@ -21,7 +21,7 @@ credits: '<b>Feeling Responsive><br><p>Designed by <br><a href="http://phlow.de/
 # See > authors.yml
 author: nomi
 
-# This URL is the main address for absolute links. Don't include a slash at the end.
+# This URL is the main address for absolute links. Don't include a slash at the end. 
 #
 url: 'https://nomi.github.io'
 #baseurl: '/feeling-responsive'
