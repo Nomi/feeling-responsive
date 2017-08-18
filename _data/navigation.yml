@@ -31,14 +31,12 @@
 #  - title: "Portfolio"
 #    url: "/design/portfolio/"
 
-- title: "Gallery & Portfolio"
-   url: ""
-#  url: "/design/"
-  side: left
-  dropdown:
   - title: "Portfolio"
+    side: left
     url: "/design/portfolio/"
+    
   - title: "Gallery"
+    side: left
     url: "/design/gallery/"
 
 #- title: "Header Styles"
@@ -73,6 +71,8 @@
   url: "/blog/"
   side: left
   dropdown:
+  - title: Blog
+    url: "/blog/"
   - title: "Blog Archive"
     url: "/blog/archive/"
 
