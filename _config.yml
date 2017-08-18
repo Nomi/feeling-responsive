@@ -17,9 +17,9 @@ slogan: 'A blog about my ventures into Programming, Networking, Fansubbing & mor
 description: 'A blog that tells the tales of a Computer Scientist (SPOILER: Me), on his various digital adventures. From Programming, IT & Tech Support, Web Development, Graphic Artistry, Fansubber and more.'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<b>Feeling Responsive><br><p>Designe by <br><a href="http://phlow.de/">Phlow</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a>'
+credits: '<b>Feeling Responsive><br><p>Designed by <br><a href="http://phlow.de/">Phlow</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a>'
 # See > authors.yml
-author: phlow
+author: nomi
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
