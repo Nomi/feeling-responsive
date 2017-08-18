@@ -76,6 +76,25 @@
   - title: "Blog Archive"
     url: "/blog/archive/"
 
+
+- title: "Projects"
+  url: "/Projects"
+  side: left
+  dropdown:
+  - title: Github Projects
+    url: "https://github.com/Nomi?tab=repositories"
+  - title: "Software"
+    url: "/"
+  - title: Fansub
+    url: "/Fansub"
+    dropdown:
+    - title: "Active"
+      url: "/Fansub/Active"
+    - title: "Plans & On Hold"
+      url: "/Fansub/upcoming"
+    - title: "Dropped"
+      url: "/Fansub/dropped"
+
 - title: "Search"
   url: "/search/"
   side: right
